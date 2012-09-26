@@ -1,3 +1,8 @@
+# MVC-Froggy
+
+This is part of the course "Databasdrivna webbapplikationer med PHP och Model View Controller (MVC)" at Blekinge Institute of Technology. 
+I'm using the MVC base from Lydia made by MOS and the front-end template from HTML5 Boilerplate
+
 # [HTML5 Boilerplate](http://html5boilerplate.com)
 
 HTML5 Boilerplate is a professional front-end template for building fast,
