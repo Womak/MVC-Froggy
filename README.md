@@ -1,4 +1,4 @@
-# [MVC-Froggy]
+# MVC-Froggy
 
 This is part of the course "Databasdrivna webbapplikationer med PHP och Model View Controller (MVC)" at Blekinge Institute of Technology. 
 I'm using the MVC base from Lydia made by MOS and the front-end template from HTML5 Boilerplate
